@@ -36,8 +36,8 @@
 > 在读....目前所见最优秀的中文React教程之一....强烈推介React初学者阅读。
 
 
-### 每日优秀文章分享
+### 优秀文章小记
 
-[名称](http://huziketang.com/books/react/lesson1)
+[Git 在团队中的最佳实践--如何正确使用Git Flow](http://www.cnblogs.com/cnblogsfans/p/5075073.html)
 
-> 简介——日期
+> 近期工作中，由于人员的增加，导致协同配合难度加大，于是重新翻看了`Git Flow`,一份清晰的代码管理流程与规范。  ———— 2017.5.10
