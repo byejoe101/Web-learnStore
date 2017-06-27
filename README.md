@@ -74,3 +74,7 @@
 [如何优雅安全地在深层数据结构中取值](http://www.jianshu.com/p/11fc75f28302)
 
 > 实际项目开发中，对于前端代码有一定的容错要求，更为重要的是，ajax，后端返回的数据结构不能保证与前端的预设结构相同.....在我们的Javascript中，往往用对象（Object）来存储一个数据结构。如果这个结构非常复杂，那么想要安全优雅地取出一个值，也并非简单。 ———— 2017.6.9
+
+[JavaScript深入之从ECMAScript规范解读this](https://github.com/mqyqingfeng/Blog/issues/7)
+
+> 从规范的角度切入，解读this....
