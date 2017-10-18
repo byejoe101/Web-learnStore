@@ -45,8 +45,31 @@
 
 [React小书](http://huziketang.com/books/react/lesson1)
 
-> 在读....目前所见最优秀的中文React教程之一....强烈推介React初学者阅读。
+> 推荐React初学者阅读。
 
+[Redux 阮一峰教程](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+
+> 阮一峰教程。
+
+[Redux 简明教程](https://github.com/kenberkeley/redux-simple-tutorial)
+
+> 深入浅出，配套 简明教程、进阶教程（源码精读）以及文档注释丰满的 Demo 等一条龙服务
+
+[TypeScript 入门教程（非官方文档）](https://github.com/xcatliu/typescript-tutorial/tree/master/basics)
+
+> typescript入门教程。
+
+
+### JavaScript基础复习
+> 学而时习之，温故知新。
+
+[JavaScript字符串所有API全解密](https://louiszhai.github.io/2016/01/12/js.String/)
+
+> 10分钟解读字符串api。
+
+[JavaScript数组所有API全解密](http://www.w3cplus.com/javascript/javascript-array-api.html)
+
+> 30分钟解读数组api。
 
 
 ### JavaScript相关书写规范，代码规范，命名规范！
@@ -87,3 +110,16 @@
 
 > 从规范的角度切入，解读this....
 
+
+[手机端页面自适应解决方案—rem布局进阶版]
+(http://www.jianshu.com/p/985d26b40199)
+
+> 移动端开发页面自适应方案.
+
+[Underscore.js 源码解读 & 系列文章（完 ❗️）](https://github.com/hanzichi/underscore-analysis)
+
+> 源码解读，带中文注释，值得一看。
+
+[一年经验初探阿里巴巴前端社招](https://github.com/jawil/blog/issues/22#issuecomment-321193421)
+
+> 如题。
